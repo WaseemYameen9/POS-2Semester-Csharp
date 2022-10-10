@@ -1,0 +1,16 @@
+E:\Semester 2\OOP\week5\lab\Point_of_Sale\Point_of_Sale\bin\Debug\Point_of_Sale.exe.config
+E:\Semester 2\OOP\week5\lab\Point_of_Sale\Point_of_Sale\bin\Debug\Point_of_Sale.exe
+E:\Semester 2\OOP\week5\lab\Point_of_Sale\Point_of_Sale\bin\Debug\Point_of_Sale.pdb
+E:\Semester 2\OOP\week5\lab\Point_of_Sale\Point_of_Sale\obj\Debug\Point_of_Sale.csproj.AssemblyReference.cache
+E:\Semester 2\OOP\week5\lab\Point_of_Sale\Point_of_Sale\obj\Debug\Point_of_Sale.csproj.CoreCompileInputs.cache
+E:\Semester 2\OOP\week5\lab\Point_of_Sale\Point_of_Sale\obj\Debug\Point_of_Sale.exe
+E:\Semester 2\OOP\week5\lab\Point_of_Sale\Point_of_Sale\obj\Debug\Point_of_Sale.pdb
+E:\Semester 2\OOP\week5\Assignment\Point_of_Sale\Point_of_Sale\bin\Debug\Point_of_Sale.exe.config
+E:\Semester 2\OOP\week5\Assignment\Point_of_Sale\Point_of_Sale\bin\Debug\Point_of_Sale.exe
+E:\Semester 2\OOP\week5\Assignment\Point_of_Sale\Point_of_Sale\bin\Debug\Point_of_Sale.pdb
+E:\Semester 2\OOP\week5\Assignment\Point_of_Sale\Point_of_Sale\obj\Debug\Point_of_Sale.csproj.AssemblyReference.cache
+E:\Semester 2\OOP\week5\Assignment\Point_of_Sale\Point_of_Sale\obj\Debug\Point_of_Sale.csproj.CoreCompileInputs.cache
+E:\Semester 2\OOP\week5\Assignment\Point_of_Sale\Point_of_Sale\obj\Debug\Point_of_Sale.exe
+E:\Semester 2\OOP\week5\Assignment\Point_of_Sale\Point_of_Sale\obj\Debug\Point_of_Sale.pdb
+E:\Semester 2\OOP\week5\Assignment\Point_of_Sale\Point_of_Sale\obj\Debug\Point_of_Sale.AboutBox1.resources
+E:\Semester 2\OOP\week5\Assignment\Point_of_Sale\Point_of_Sale\obj\Debug\Point_of_Sale.csproj.GenerateResource.cache

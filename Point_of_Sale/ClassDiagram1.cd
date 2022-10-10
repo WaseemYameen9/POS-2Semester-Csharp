@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Point_of_Sale.BL.customer">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_of_Sale.BL.Muser">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>BL\Muser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_of_Sale.BL.product">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAgAAAAAAAAAAKAAAAAIAAgAAAA=</HashCode>
+      <FileName>BL\product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_of_Sale.DL.customerDL">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>DL\customerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_of_Sale.DL.MuserDL">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>DL\MuserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_of_Sale.DL.productDL">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>DL\productDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_of_Sale.UI.customerUI">
+    <Position X="5.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\customerUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_of_Sale.UI.MuserUI">
+    <Position X="7.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\MuserUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point_of_Sale.UI.productUI">
+    <Position X="3.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAAAACQ=</HashCode>
+      <FileName>UI\productUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,6 @@
+LUX,grocery,100,7,3,10
+LAYS,grocery,50,7,8,10
+Apple,fruit,40,78,10,5
+MAX,other,19,5,2,15
+BAR,other,30,5,2,15
+shoes,wears,3000,14,2,0
